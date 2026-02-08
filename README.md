@@ -2,6 +2,8 @@
 
 It`s LSTM classifer for comments on English language.
 
+Classes: Suicidal, Depression, Anxiety, and Normal.
+
 Used libraries:
   pytorch,
   pandas,
@@ -10,6 +12,9 @@ Used libraries:
   numpy,
   time,
   matplotlib.
+
+Acc Val: 74%
+Loss: 0.4396%
 
 Data from: https://www.kaggle.com/datasets/priyangshumukherjee/mental-health-text-classification-dataset?select=mental_heath_unbanlanced.csv (Mental Health Text Classification Dataset)
 
